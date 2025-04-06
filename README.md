@@ -15,3 +15,5 @@ build
 # Prepara para compilar  
 cmake .. && make                     
 # Compila o plugin
+## Licença  
+Leia os termos completos em [LICENSE.md](LICENSE.md).
