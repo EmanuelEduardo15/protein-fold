@@ -46,4 +46,4 @@ A **Curvometry Technologies** concede ao licenciado (**Cliente**) um direito nã
 
 ---
 
-**© 2025 Curvometry Technologies. Todos os direitos reservados.**
+**© 2025 ChQuantum Technologies. Todos os direitos reservados.**
