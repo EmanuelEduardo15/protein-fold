@@ -1,21 +1,45 @@
-MIT License
+# ACORDO DE LICENÇA DE USUÁRIO FINAL (EULA)  
+**Versão 1.0 | Data: 5 de Abril de 2025**  
 
-Copyright (c) 2025 Emanuel Eduardo
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. **CONCESSÃO DE LICENÇA**  
+A **Curvometry Technologies** concede ao licenciado (**Cliente**) um direito não exclusivo, não transferível e revogável de:  
+- Usar o software **ProteinFold** para pesquisa e desenvolvimento interno.  
+- Acessar documentação técnica e atualizações durante o período da licença.  
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 2. **RESTRIÇÕES**  
+É **expressamente proibido**:  
+- Redistribuir, vender ou sublicenciar o código (total ou parcialmente).  
+- Engenharia reversa, descompilação ou modificação não autorizada.  
+- Usar o software para desenvolver produtos concorrentes.  
+
+---
+
+## 3. **PAGAMENTO**  
+- **Valor Anual**: $180.000 USD (pagamento antecipado).  
+- **Suporte Técnico**: Incluído (24h por e-mail: [chquantumtechnologies@gmail.com](mailto:Emapica15@gmail.com)).  
+
+---
+
+## 4. **CONFIDENCIALIDADE**  
+- O Cliente concorda em manter em sigilo:  
+  - Código-fonte.  
+  - Algoritmos de curvometria modular.  
+  - Dados de validação experimental (ex: RMSD de 0.8 Å).  
+
+---
+
+## 5. **DURAÇÃO E RESCISÃO**  
+- **Vigência**: 1 ano (renovável mediante pagamento).  
+- **Rescisão Imediata** se:  
+  - Violação das restrições (Seção 2).  
+  - Atraso superior a 30 dias no pagamento.  
+
+---
+
+## 6. **DISPOSIÇÕES GERAIS**  
+- **Jurisdição**: Leis do Estado de São Paulo, Brasil.  
+- **Modificações**: A Curvometry reserva-se o direito de atualizar os termos mediante aviso prévio de
