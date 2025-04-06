@@ -15,4 +15,4 @@ mkdir build && cd build
 cmake .. && make
 ## Licença  
 Leia os termos completos em [LICENSE.md]
-LICENSE.md.
+[LICENSE.md].
