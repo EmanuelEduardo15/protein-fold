@@ -11,6 +11,7 @@
 conda activate protein-fold          # 
 # Ativa o ambiente  
 cd rosetta_plugin && mkdir build && cd 
-build  # Prepara para compilar  
+build  
+# Prepara para compilar  
 cmake .. && make                     # 
 # Compila o plugin
