@@ -1,0 +1,15 @@
+
+---
+
+#### ✅ **2. `environment.yml` (Dependências)**  
+```yaml  
+name: protein-fold  
+channels:  
+  - conda-forge  
+  - defaults  
+dependencies:  
+  - python=3.9  
+  - numpy  
+  - scipy  
+  - pytest  
+  - rosetta=2023.15  # Versão compatível via licença acadêmica/comercial
