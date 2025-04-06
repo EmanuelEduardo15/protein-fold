@@ -20,7 +20,7 @@ A **Curvometry Technologies** concede ao licenciado (**Cliente**) um direito nã
 
 ## 3. **PAGAMENTO**  
 - **Valor Anual**: $180.000 USD (pagamento antecipado).  
-- **Suporte Técnico**: Incluído (24h por e-mail: [chquantumtechnologies@gmail.com]  
+- **Suporte Técnico**: Incluído (24h por e-mail: chquantumtechnologies@gmail.com  
 
 ---
 
@@ -41,7 +41,7 @@ A **Curvometry Technologies** concede ao licenciado (**Cliente**) um direito nã
 ---
 
 ## 6. **DISPOSIÇÕES GERAIS**  
-- **Jurisdição**: Leis do Estado de São Paulo, Brasil.  
+- **Jurisdição**: Leis do Estado de Lisboa, Portugal .  
 - **Modificações**: A Curvometry reserva-se o direito de atualizar os termos mediante aviso prévio de 30 dias.  
 
 ---
