@@ -6,12 +6,13 @@
    ```bash  
    git clone https://github.com/EmanuelEduardo15/protein-fold.git  
    cd protein-fold
- # Cria o ambiente  
-conda env create -f environment.yml
-conda activate protein-fold           
-# compila o plugin  
-cd rosetta_plugin 
-mkdir build && cd build                  
-cmake .. && make
+conda env create -f environment.yml 
+# Cria o ambiente  
+conda activate protein-fold         
+# Ativa o ambiente  
+cd rosetta_plugin && mkdir build && cd build 
+# Prepara para compilar  
+cmake .. && make                    
+# Compila o plugin
 ## Licença  
-Leia os termos completos em [LICENSE.md][LICENSE.md].
+Leia os termos completos em [LICENSE.md](LICENSE.md).
