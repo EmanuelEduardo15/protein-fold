@@ -8,10 +8,10 @@
    cd protein-fold
  conda env create -f environment.yml
 # Cria o ambiente  
-conda activate protein-fold          # 
+conda activate protein-fold           
 # Ativa o ambiente  
 cd rosetta_plugin && mkdir build && cd 
 build  
 # Prepara para compilar  
-cmake .. && make                     # 
+cmake .. && make                     
 # Compila o plugin
