@@ -4,7 +4,7 @@
 ---
 
 ## 1. **CONCESSÃO DE LICENÇA**  
-A **Curvometry Technologies** concede ao licenciado (**Cliente**) um direito não exclusivo, não transferível e revogável de:  
+A **ChQuantum Technologies** concede ao licenciado (**Cliente**) um direito não exclusivo, não transferível e revogável de:  
 - Usar o software **ProteinFold** para pesquisa e desenvolvimento interno.  
 - Acessar documentação técnica e atualizações durante o período da licença.  
 
