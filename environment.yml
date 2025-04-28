@@ -1,8 +1,5 @@
 
----
-
-#### ✅ **2. `environment.yml` (Dependências)**  
-```yaml  
+yaml  
 name: protein-fold  
 channels:  
   - conda-forge  
